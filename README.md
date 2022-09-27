@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu
 - 👀 I’m interested in Developer
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
